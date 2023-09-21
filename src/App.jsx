@@ -5,7 +5,7 @@ import { Box, OrbitControls } from "@react-three/drei";
 const Scene = () => {
   const boxRef = useRef();
   useFrame((state, delta) => {
-    boxRef.current.rotation.y += 0.02;
+    boxRef.current.rotation.y += 0.02;  
   });
 
   return (
