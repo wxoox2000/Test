@@ -13,7 +13,7 @@
     "codesandbox"
   ],
   "author": "Benjamin Miles <talk@benjaminmiles.com> (https://github.com/benjaminmiles)",
-  "repository": "github:benjaminmiles/react-three-vite",
+  "repository": "github:wxoox2000/Test",
   "license": "MIT",
   "dependencies": {
     "@react-three/drei": "9.79.3",
